@@ -18,5 +18,5 @@ High Performance API Compression
 
 ## Contact
 
-LinkedIn
-Email
+LinkedIn:https://www.linkedin.com/in/govindaraj-asokan-b030761b9/
+Email:govindarak.asokan@gmail.com
